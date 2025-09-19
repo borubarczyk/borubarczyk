@@ -1,4 +1,5 @@
 Hi there 👋, I'm Boris!
+
 Welcome to my GitHub profile! I’m a helpdesk specialist and automation enthusiast, passionate about building practical tools that fill the gaps I often encounter in daily IT work. I love turning real-world problems into creative solutions, always eager to learn new skills and share knowledge along the way.
 
 🚀 Featured Repositories
