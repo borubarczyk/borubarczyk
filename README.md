@@ -15,10 +15,15 @@ Welcome to my GitHub profile! I’m a helpdesk specialist and automation enthusi
 
 🧰 Tech Stack
   -Languages: PowerShell, Python (more coming soon!)
+  
   -Tools: Git, VS Code, (and others in my toolbox)
+  
   -Domains: Automation, DevOps, IT Support
 
 🌱 What I'm Working On
   -Exploring new approaches to automation
+  
   -Building tools to simplify and speed up helpdesk workflows
+  
   -Sharing practical scripts and solutions with the tech community
+  
