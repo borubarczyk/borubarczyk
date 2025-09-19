@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Boris!
 
-<!--
-**borubarczyk/borubarczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building practical tools and creative solutions, always striving to learn something new and help others along the way.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Repositories
+
+- [**PS1-MicroProjects**](https://github.com/borubarczyk/PS1-MicroProjects)  
+  PowerShell micro-projects for automation and system management.
+
+- [**HelpdeskToolsProject_Scaffold**](https://github.com/borubarczyk/HelpdeskToolsProject_Scaffold)  
+  Scaffold for building helpdesk tools and utilities.
+
+- [**SmartDeployTool**](https://github.com/borubarczyk/SmartDeployTool)  
+  Smart deployment solutions for streamlined workflows.
+
+---
+
+## 🧰 Tech Stack
+
+- **Languages:** PowerShell, Python, (add more!)
+- **Tools:** Git, VS Code, (add more!)
+- **Domains:** Automation, DevOps, IT Support, (add more!)
+
+---
+
+## 🌱 What I'm Working On
+
+- Exploring new automation techniques.
+- Building tools to simplify daily workflows.
+- Sharing knowledge and practical scripts for the tech community.
